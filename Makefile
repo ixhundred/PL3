@@ -2,8 +2,8 @@ B2HTARGET = $(CURDIR)/tools/bin2header
 CFLAGS = -Wall -O3
 
 CC = gcc
-PPU_CC = ppu-gcc
-PPU_OBJCOPY = ppu-objcopy
+PPU_CC = ppu-lv2-gcc
+PPU_OBJCOPY = ppu-lv2-objcopy
 PPU_CFLAGS =
 
 # This isn't enough, you must also add rules for the filename_fw with the -D define

@@ -1,4 +1,7 @@
 bin2header
 dump_lv2_pcap_to_bin
 dump_elfs_pcap_to_dir
+bin2header.exe
+dump_lv2_pcap_to_bin.exe
+dump_elfs_pcap_to_dir.exe
 

@@ -15,7 +15,7 @@
 #include <string.h>
 #include <stdlib.h>
 #include <errno.h>
-#include <arpa/inet.h>
+#include <wininet.h>
 
 
 typedef struct pcap_hdr_s {

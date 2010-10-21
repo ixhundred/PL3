@@ -14,7 +14,7 @@
 #include <sys/types.h>
 #include <string.h>
 #include <stdlib.h>
-#include <arpa/inet.h>
+#include <wininet.h>
 
 typedef struct pcap_hdr_s {
   uint32_t magic_number;   /* magic number */
